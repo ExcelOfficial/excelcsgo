@@ -1,4 +1,4 @@
-<span id="a">root@excelcs</span>:<span id="b">~</span><span id="c">$</span> node excel.js<br/><br/>
+<span id="a">root@excelcs</span>:<span id="b">~</span><span id="c">$</span> cat excel.txt<br/><br/>
 Hi, I'm Excel I'm an amature coder in Javascript, HTML, CSS, SQF and SQL databases<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
 <p>You can add me on my <a href="http://www.steamcommunity.com/id/excelofficial">Steam</a></p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
 <p>J'adore parler français. I also love reading, and listening to music.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
