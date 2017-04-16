@@ -3,4 +3,4 @@ Hi, I'm Excel I'm an amature coder in Javascript, HTML, CSS, SQF and SQL databas
 <p>You can add me on my <a href="http://www.steamcommunity.com/id/excelofficial">Steam</a></p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
 <p>J'adore parler français. I also love reading, and listening to music.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
 If you want to get in touch with me, add my steam, above, or<!-- slightdelayhere-->, feel free to send me an email or a tweet.<!-- longlongcomment --> My email address is: <a href="mailto:excelofficial@gmail.com">excelofficial@gmail.com</a> and my Twitter is: <a href="http://twitter.com/excelcsofficial">@excelcsofficial</a>.
-<p>And if you haven't already, be sure to check out my tech publication <a href="http://www.besttechie.com">http://www.besttechie.com</a> and analytics startup <a href="https://getkya.com">https://getkya.com</a>.</p>
+<p>Feel free to take a look at some of my other projects <a href="http://www.google.com">Error 404 Not Found</a></p>
